@@ -1,0 +1,11 @@
+{
+  "name": "heroku-control-panel",
+  "scripts": {
+    "start": "node app"
+  },
+  "version": "1.0.0",
+  "author": "David Byrd <david@byrdhou.se>",
+  "dependencies": {
+    "serialport": "~1.1.0"
+  }
+}
