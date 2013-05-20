@@ -15,5 +15,6 @@ I've included a bunch of images to make it as easy to reproduce as possible:
 - ![two](http://4.bp.blogspot.com/-Yd9VKUUFThY/UZFqPX7lieI/AAAAAAAAANI/xRshLjkk2bo/s320/IMG_1739.jpg)
 - ![three](http://2.bp.blogspot.com/-wbSeleg7RBo/UZFqPv-tdzI/AAAAAAAAANU/43WdcC8r5Q8/s320/IMG_1740.JPG)
 - ![four](http://1.bp.blogspot.com/-KqTXIVSA1rA/UZFqPE7t_3I/AAAAAAAAANA/LF6saJ6Dr_M/s320/IMG_1726.jpg)
+
 ### "Server"
 The Arduino should be connected to your computer via USB. On your computer you can run the Node.js Application by running `node /nodejs/app.js` in your terminal. This code takes the Arduino's readings and makes API calls to heroku
