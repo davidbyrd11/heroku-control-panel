@@ -1,7 +1,7 @@
 # Physical Heroku Control Panel
 
 ## Overview
-Shohan Hasan, Taylor Brock, &amp; I built a physical control panel for our final project in NYU's Physical Computing class. It's a box with an arduino in it that has a dial for literally scaling the number of dynos, a button to restart your application, &amp; an LED that flashes red whenever there's an error.
+You know how websites always call their settings page a "control panel". That's frustrating because they don't work like real control panels. Shohan Hasan, Taylor Brock, &amp; I built a physical control panel for our final project in NYU's Physical Computing class. It's a box with an arduino in it that has a dial for literally scaling the number of dynos, a button to restart your application, &amp; an LED that flashes red whenever there's an error.
 
 ## Installation
 Start by putting your information in `config.js`. 
